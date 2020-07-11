@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);.btn-wide {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -100px;
+}
+
+.color-orange {
+  color: #f6931d !important;
+}
+
+.color-orange-bg {
+  background-color: #f6931d !important;
+}
+
+.color-darkblue {
+  color: #053f88 !important;
+}
+
+.color-darkblue-bg {
+  background-color: #053f88 !important;
+}
+
+.show {
+  display: block;
+}
+
